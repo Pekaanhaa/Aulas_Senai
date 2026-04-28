@@ -27,3 +27,4 @@ while True:
 # Usamos ** para desempacotar o dicionário como argumentos
 
 exibir_info(**info_usuario)
+
